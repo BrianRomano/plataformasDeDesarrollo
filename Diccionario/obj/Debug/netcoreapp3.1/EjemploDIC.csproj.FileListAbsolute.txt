@@ -1,0 +1,33 @@
+C:/Users/gomez/source/repos/EjemploDIC/bin/Debug/netcoreapp3.1/EjemploDIC.exe
+C:/Users/gomez/source/repos/EjemploDIC/bin/Debug/netcoreapp3.1/EjemploDIC.deps.json
+C:/Users/gomez/source/repos/EjemploDIC/bin/Debug/netcoreapp3.1/EjemploDIC.runtimeconfig.json
+C:/Users/gomez/source/repos/EjemploDIC/bin/Debug/netcoreapp3.1/EjemploDIC.runtimeconfig.dev.json
+C:/Users/gomez/source/repos/EjemploDIC/bin/Debug/netcoreapp3.1/EjemploDIC.dll
+C:/Users/gomez/source/repos/EjemploDIC/bin/Debug/netcoreapp3.1/EjemploDIC.pdb
+C:/Users/gomez/source/repos/EjemploDIC/obj/Debug/netcoreapp3.1/EjemploDIC.csprojAssemblyReference.cache
+C:/Users/gomez/source/repos/EjemploDIC/obj/Debug/netcoreapp3.1/EjemploDIC.AssemblyInfoInputs.cache
+C:/Users/gomez/source/repos/EjemploDIC/obj/Debug/netcoreapp3.1/EjemploDIC.AssemblyInfo.cs
+C:/Users/gomez/source/repos/EjemploDIC/obj/Debug/netcoreapp3.1/EjemploDIC.csproj.CoreCompileInputs.cache
+C:/Users/gomez/source/repos/EjemploDIC/obj/Debug/netcoreapp3.1/EjemploDIC.dll
+C:/Users/gomez/source/repos/EjemploDIC/obj/Debug/netcoreapp3.1/EjemploDIC.pdb
+C:/Users/gomez/source/repos/EjemploDIC/obj/Debug/netcoreapp3.1/EjemploDIC.genruntimeconfig.cache
+/Volumes/GoogleDrive/Mi unidad/EscuelaDaVinci/4toCuatrimestre/PlataformasDeDesarrollo-[C#]/Ejercicios/EjemploDIC/bin/Debug/netcoreapp3.1/EjemploDIC.deps.json
+/Volumes/GoogleDrive/Mi unidad/EscuelaDaVinci/4toCuatrimestre/PlataformasDeDesarrollo-[C#]/Ejercicios/EjemploDIC/bin/Debug/netcoreapp3.1/EjemploDIC.runtimeconfig.json
+/Volumes/GoogleDrive/Mi unidad/EscuelaDaVinci/4toCuatrimestre/PlataformasDeDesarrollo-[C#]/Ejercicios/EjemploDIC/bin/Debug/netcoreapp3.1/EjemploDIC.runtimeconfig.dev.json
+/Volumes/GoogleDrive/Mi unidad/EscuelaDaVinci/4toCuatrimestre/PlataformasDeDesarrollo-[C#]/Ejercicios/EjemploDIC/bin/Debug/netcoreapp3.1/EjemploDIC.dll
+/Volumes/GoogleDrive/Mi unidad/EscuelaDaVinci/4toCuatrimestre/PlataformasDeDesarrollo-[C#]/Ejercicios/EjemploDIC/bin/Debug/netcoreapp3.1/EjemploDIC.pdb
+/Volumes/GoogleDrive/Mi unidad/EscuelaDaVinci/4toCuatrimestre/PlataformasDeDesarrollo-[C#]/Ejercicios/EjemploDIC/obj/Debug/netcoreapp3.1/EjemploDIC.csproj.AssemblyReference.cache
+/Volumes/GoogleDrive/Mi unidad/EscuelaDaVinci/4toCuatrimestre/PlataformasDeDesarrollo-[C#]/Ejercicios/EjemploDIC/obj/Debug/netcoreapp3.1/EjemploDIC.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/GoogleDrive/Mi unidad/EscuelaDaVinci/4toCuatrimestre/PlataformasDeDesarrollo-[C#]/Ejercicios/EjemploDIC/obj/Debug/netcoreapp3.1/EjemploDIC.AssemblyInfoInputs.cache
+/Volumes/GoogleDrive/Mi unidad/EscuelaDaVinci/4toCuatrimestre/PlataformasDeDesarrollo-[C#]/Ejercicios/EjemploDIC/obj/Debug/netcoreapp3.1/EjemploDIC.AssemblyInfo.cs
+/Volumes/GoogleDrive/Mi unidad/EscuelaDaVinci/4toCuatrimestre/PlataformasDeDesarrollo-[C#]/Ejercicios/EjemploDIC/obj/Debug/netcoreapp3.1/EjemploDIC.csproj.CoreCompileInputs.cache
+/Volumes/GoogleDrive/Mi unidad/EscuelaDaVinci/4toCuatrimestre/PlataformasDeDesarrollo-[C#]/Ejercicios/EjemploDIC/obj/Debug/netcoreapp3.1/EjemploDIC.dll
+/Volumes/GoogleDrive/Mi unidad/EscuelaDaVinci/4toCuatrimestre/PlataformasDeDesarrollo-[C#]/Ejercicios/EjemploDIC/obj/Debug/netcoreapp3.1/EjemploDIC.pdb
+/Volumes/GoogleDrive/Mi unidad/EscuelaDaVinci/4toCuatrimestre/PlataformasDeDesarrollo-[C#]/Ejercicios/EjemploDIC/obj/Debug/netcoreapp3.1/EjemploDIC.genruntimeconfig.cache
+/Volumes/GoogleDrive/Mi unidad/EscuelaDaVinci/4toCuatrimestre/PlataformasDeDesarrollo-[C#]/Ejercicios/EjemploDIC/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.LiveShare.dll
+/Volumes/GoogleDrive/Mi unidad/EscuelaDaVinci/4toCuatrimestre/PlataformasDeDesarrollo-[C#]/Ejercicios/EjemploDIC/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Volumes/GoogleDrive/Mi unidad/EscuelaDaVinci/4toCuatrimestre/PlataformasDeDesarrollo-[C#]/Ejercicios/EjemploDIC/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Volumes/GoogleDrive/Mi unidad/EscuelaDaVinci/4toCuatrimestre/PlataformasDeDesarrollo-[C#]/Ejercicios/EjemploDIC/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Volumes/GoogleDrive/Mi unidad/EscuelaDaVinci/4toCuatrimestre/PlataformasDeDesarrollo-[C#]/Ejercicios/EjemploDIC/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Volumes/GoogleDrive/Mi unidad/EscuelaDaVinci/4toCuatrimestre/PlataformasDeDesarrollo-[C#]/Ejercicios/EjemploDIC/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Volumes/GoogleDrive/Mi unidad/EscuelaDaVinci/4toCuatrimestre/PlataformasDeDesarrollo-[C#]/Ejercicios/EjemploDIC/obj/Debug/netcoreapp3.1/EjemploDIC.csproj.CopyComplete

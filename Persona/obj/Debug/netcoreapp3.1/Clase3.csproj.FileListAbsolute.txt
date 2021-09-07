@@ -1,0 +1,13 @@
+C:\Users\gomez\source\repos\Clase3\bin\Debug\netcoreapp3.1\Clase3.exe
+C:\Users\gomez\source\repos\Clase3\bin\Debug\netcoreapp3.1\Clase3.deps.json
+C:\Users\gomez\source\repos\Clase3\bin\Debug\netcoreapp3.1\Clase3.runtimeconfig.json
+C:\Users\gomez\source\repos\Clase3\bin\Debug\netcoreapp3.1\Clase3.runtimeconfig.dev.json
+C:\Users\gomez\source\repos\Clase3\bin\Debug\netcoreapp3.1\Clase3.dll
+C:\Users\gomez\source\repos\Clase3\bin\Debug\netcoreapp3.1\Clase3.pdb
+C:\Users\gomez\source\repos\Clase3\obj\Debug\netcoreapp3.1\Clase3.AssemblyInfoInputs.cache
+C:\Users\gomez\source\repos\Clase3\obj\Debug\netcoreapp3.1\Clase3.AssemblyInfo.cs
+C:\Users\gomez\source\repos\Clase3\obj\Debug\netcoreapp3.1\Clase3.csproj.CoreCompileInputs.cache
+C:\Users\gomez\source\repos\Clase3\obj\Debug\netcoreapp3.1\Clase3.dll
+C:\Users\gomez\source\repos\Clase3\obj\Debug\netcoreapp3.1\Clase3.pdb
+C:\Users\gomez\source\repos\Clase3\obj\Debug\netcoreapp3.1\Clase3.genruntimeconfig.cache
+C:\Users\gomez\source\repos\Clase3\obj\Debug\netcoreapp3.1\Clase3.csprojAssemblyReference.cache
