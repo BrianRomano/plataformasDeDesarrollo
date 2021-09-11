@@ -1,0 +1,17 @@
+C:\Users\gomez\source\repos\Clase4MDI\MDI\bin\Debug\netcoreapp3.1\MDI.exe
+C:\Users\gomez\source\repos\Clase4MDI\MDI\bin\Debug\netcoreapp3.1\MDI.deps.json
+C:\Users\gomez\source\repos\Clase4MDI\MDI\bin\Debug\netcoreapp3.1\MDI.runtimeconfig.json
+C:\Users\gomez\source\repos\Clase4MDI\MDI\bin\Debug\netcoreapp3.1\MDI.runtimeconfig.dev.json
+C:\Users\gomez\source\repos\Clase4MDI\MDI\bin\Debug\netcoreapp3.1\MDI.dll
+C:\Users\gomez\source\repos\Clase4MDI\MDI\bin\Debug\netcoreapp3.1\MDI.pdb
+C:\Users\gomez\source\repos\Clase4MDI\MDI\obj\Debug\netcoreapp3.1\MDI.csprojAssemblyReference.cache
+C:\Users\gomez\source\repos\Clase4MDI\MDI\obj\Debug\netcoreapp3.1\MDI.Form1.resources
+C:\Users\gomez\source\repos\Clase4MDI\MDI\obj\Debug\netcoreapp3.1\MDI.csproj.GenerateResource.cache
+C:\Users\gomez\source\repos\Clase4MDI\MDI\obj\Debug\netcoreapp3.1\MDI.AssemblyInfoInputs.cache
+C:\Users\gomez\source\repos\Clase4MDI\MDI\obj\Debug\netcoreapp3.1\MDI.AssemblyInfo.cs
+C:\Users\gomez\source\repos\Clase4MDI\MDI\obj\Debug\netcoreapp3.1\MDI.csproj.CoreCompileInputs.cache
+C:\Users\gomez\source\repos\Clase4MDI\MDI\obj\Debug\netcoreapp3.1\MDI.dll
+C:\Users\gomez\source\repos\Clase4MDI\MDI\obj\Debug\netcoreapp3.1\MDI.pdb
+C:\Users\gomez\source\repos\Clase4MDI\MDI\obj\Debug\netcoreapp3.1\MDI.genruntimeconfig.cache
+C:\Users\gomez\source\repos\Clase4MDI\MDI\obj\Debug\netcoreapp3.1\MDI.Form2.resources
+C:\Users\gomez\source\repos\Clase4MDI\MDI\obj\Debug\netcoreapp3.1\MDI.Form3.resources
