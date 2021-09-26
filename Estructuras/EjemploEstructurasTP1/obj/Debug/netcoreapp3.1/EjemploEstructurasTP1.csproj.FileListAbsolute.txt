@@ -1,0 +1,13 @@
+C:\Users\gomez\source\repos\EjemploEstructurasTP1\EjemploEstructurasTP1\bin\Debug\netcoreapp3.1\EjemploEstructurasTP1.exe
+C:\Users\gomez\source\repos\EjemploEstructurasTP1\EjemploEstructurasTP1\bin\Debug\netcoreapp3.1\EjemploEstructurasTP1.deps.json
+C:\Users\gomez\source\repos\EjemploEstructurasTP1\EjemploEstructurasTP1\bin\Debug\netcoreapp3.1\EjemploEstructurasTP1.runtimeconfig.json
+C:\Users\gomez\source\repos\EjemploEstructurasTP1\EjemploEstructurasTP1\bin\Debug\netcoreapp3.1\EjemploEstructurasTP1.runtimeconfig.dev.json
+C:\Users\gomez\source\repos\EjemploEstructurasTP1\EjemploEstructurasTP1\bin\Debug\netcoreapp3.1\EjemploEstructurasTP1.dll
+C:\Users\gomez\source\repos\EjemploEstructurasTP1\EjemploEstructurasTP1\bin\Debug\netcoreapp3.1\EjemploEstructurasTP1.pdb
+C:\Users\gomez\source\repos\EjemploEstructurasTP1\EjemploEstructurasTP1\obj\Debug\netcoreapp3.1\EjemploEstructurasTP1.csprojAssemblyReference.cache
+C:\Users\gomez\source\repos\EjemploEstructurasTP1\EjemploEstructurasTP1\obj\Debug\netcoreapp3.1\EjemploEstructurasTP1.AssemblyInfoInputs.cache
+C:\Users\gomez\source\repos\EjemploEstructurasTP1\EjemploEstructurasTP1\obj\Debug\netcoreapp3.1\EjemploEstructurasTP1.AssemblyInfo.cs
+C:\Users\gomez\source\repos\EjemploEstructurasTP1\EjemploEstructurasTP1\obj\Debug\netcoreapp3.1\EjemploEstructurasTP1.csproj.CoreCompileInputs.cache
+C:\Users\gomez\source\repos\EjemploEstructurasTP1\EjemploEstructurasTP1\obj\Debug\netcoreapp3.1\EjemploEstructurasTP1.dll
+C:\Users\gomez\source\repos\EjemploEstructurasTP1\EjemploEstructurasTP1\obj\Debug\netcoreapp3.1\EjemploEstructurasTP1.pdb
+C:\Users\gomez\source\repos\EjemploEstructurasTP1\EjemploEstructurasTP1\obj\Debug\netcoreapp3.1\EjemploEstructurasTP1.genruntimeconfig.cache
