@@ -1,0 +1,15 @@
+C:\Users\gomez\source\repos\Clase5\Clase5\bin\Debug\netcoreapp3.1\Clase5.exe
+C:\Users\gomez\source\repos\Clase5\Clase5\bin\Debug\netcoreapp3.1\Clase5.deps.json
+C:\Users\gomez\source\repos\Clase5\Clase5\bin\Debug\netcoreapp3.1\Clase5.runtimeconfig.json
+C:\Users\gomez\source\repos\Clase5\Clase5\bin\Debug\netcoreapp3.1\Clase5.runtimeconfig.dev.json
+C:\Users\gomez\source\repos\Clase5\Clase5\bin\Debug\netcoreapp3.1\Clase5.dll
+C:\Users\gomez\source\repos\Clase5\Clase5\bin\Debug\netcoreapp3.1\Clase5.pdb
+C:\Users\gomez\source\repos\Clase5\Clase5\obj\Debug\netcoreapp3.1\Clase5.csprojAssemblyReference.cache
+C:\Users\gomez\source\repos\Clase5\Clase5\obj\Debug\netcoreapp3.1\Clase5.Form1.resources
+C:\Users\gomez\source\repos\Clase5\Clase5\obj\Debug\netcoreapp3.1\Clase5.csproj.GenerateResource.cache
+C:\Users\gomez\source\repos\Clase5\Clase5\obj\Debug\netcoreapp3.1\Clase5.AssemblyInfoInputs.cache
+C:\Users\gomez\source\repos\Clase5\Clase5\obj\Debug\netcoreapp3.1\Clase5.AssemblyInfo.cs
+C:\Users\gomez\source\repos\Clase5\Clase5\obj\Debug\netcoreapp3.1\Clase5.csproj.CoreCompileInputs.cache
+C:\Users\gomez\source\repos\Clase5\Clase5\obj\Debug\netcoreapp3.1\Clase5.dll
+C:\Users\gomez\source\repos\Clase5\Clase5\obj\Debug\netcoreapp3.1\Clase5.pdb
+C:\Users\gomez\source\repos\Clase5\Clase5\obj\Debug\netcoreapp3.1\Clase5.genruntimeconfig.cache
