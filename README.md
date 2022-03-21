@@ -1,2 +1,2 @@
 # plataformasDeDesarrollo-ejercicios
-Ejercicios realizados en la materia Plataformas de desarrollo. 4to cuatrimestre, 2do año.
+Plataformas de Desarrollo [2do Año | 2do Cuatrimestre] - Ejercicios y Trabajo Practico.
